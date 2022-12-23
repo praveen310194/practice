@@ -1,0 +1,40 @@
+ls == to check files and folders
+cd == cd folder_name to move into that folder
+
+Git Initialization  
+=================== 
+>> git init == after this .git file will added(in hidden) 
+
+Git add Repositorie
+===================
+git remote add origin [gitLink] ==>https://github.com/praveen310194/opencv.git
+
+Git Adding files to 
+===================
+>> git add .
+
+Git Commiting
+=============
+>> git commit -m "First commit"
+
+Git Push to Master Origin:
+=========================
+>> git push -u origin master 
+or git push origin head 
+
+Git add respositry
+==================
+git clone url  (https://github.com/praveen310194/ml.git)
+
+---------------
+un-commited changes:
+->for undo = $ git checkout -- . ('.' for all files, or '1.py')
+commited changes:
+->copy commit id from : $ git log
+-> $ git revert 217dece4566  => commit id
+->after revert : type -> :q to close(revert ui)
+
+=> revert commit_id-> it will modify and commit
+=>revert -n commit_id ->it will only modify
+--->reset --hard commit_id : it reset all commit from commit id.
+
