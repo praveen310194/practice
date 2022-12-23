@@ -1,0 +1,12 @@
+1->Exception handling
+2->Classes
+3->Modules
+4->Logging
+5->Datetime
+6->JSON
+7->JSON Validation
+8->Unit Testing
+9->Pandas
+10->Numpay
+11->Requests
+12->working with postgres
