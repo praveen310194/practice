@@ -1,0 +1,10 @@
+git version control:
+---------------------
+solve below problems:
+-------------------------
+1->the code store in cloud so we never lose our data.
+2->multiple people can work on same code.
+3->for example 1.py file you saved in it stores in version1.
+ ->1.py - code change -svaed. it stores in version2.
+ ->so we back from version 2 to version.
+------------------------------
